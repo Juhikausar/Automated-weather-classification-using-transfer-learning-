@@ -1,0 +1,1 @@
+# Automated-weather-classification-using-transfer-learning-[Automated weather classification using transfer learning code.docx](https://github.com/Juhikausar/Automated-weather-classification-using-transfer-learning-/files/11522960/Automated.weather.classification.using.transfer.learning.code.docx)
